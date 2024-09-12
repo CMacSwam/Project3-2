@@ -3,7 +3,7 @@
 * Author: Chase McCluskey
 *Date: 9/12/2024
 
-Description: Finding a qoute for a customer on rails and posts they need 
+Description: Finding a qoute for a customer on rails and posts they need
 *
 */
 
